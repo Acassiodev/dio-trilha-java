@@ -25,6 +25,8 @@ public class Usuario {
         smartTv.desligar();
         System.out.println("Novo Status -> Tv Ligada ? " + smartTv.ligada);
 
+        
+
     }
     }
 
